@@ -1,4 +1,4 @@
-# Indian-credit-card-transactions
+# Indian-credit-card-transactions (My first ever dashboard)
 My first data analysis Excel dashboard project using 'Credit card transactions in India' From #Kaggle
 
 Link to the process story:
